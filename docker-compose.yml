@@ -61,17 +61,11 @@ services:
       PORT: 9021
 
   producer:
-    image: producer
-    build:
-      context: ./producer
-      dockerfile: ./producer/Dockerfile
+    build: ./producer
     depends_on:
       - control-center
 
   consumer:
-    image: consumer
-    build:
-      context: ./consumer
-      dockerfile: ./consumer/Dockerfile
+    build: ./consumer
     depends_on:
       - control-center

@@ -5,4 +5,4 @@ set -ex
 # Wait until Kafka comes online
 sleep 5
 
-python /app/main.py
+python /producer-app/main.py
