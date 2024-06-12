@@ -1,0 +1,184 @@
+2024-06-12 10:31:56 + python /producer-app/main.py
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:57 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:31:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:31:59 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:31:59 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:00 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:00 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:01 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:01 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:02 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:02 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:03 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:03 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:04 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:04 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:05 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:05 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:06 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:06 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:07 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:07 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:08 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:08 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:09 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:09 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:10 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:10 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:11 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:11 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:12 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:12 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:13 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:13 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:14 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:14 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:15 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:15 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:16 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:16 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:16 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:16 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:18 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:18 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:19 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:19 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:20 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:20 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:21 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:21 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:22 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:22 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:23 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:23 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:24 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:24 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:25 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:25 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:26 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:32:26 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:26 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:32:26 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:27 WARNING:kafka.producer.record_accumulator:Produced messages to topic-partition TopicPartition(topic='USERS', partition=0) with base offset -1 log start offset None and error None.
+2024-06-12 10:32:27 WARNING:kafka.producer.record_accumulator:Expired 1 batches in accumulator
+2024-06-12 10:33:52 + python /producer-app/main.py
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:32:27 1
+2024-06-12 10:32:27 Sent message 0 -> ts='2024-06-12 05:01:57.753199' name='Brandon Crawford' country='Lebanon' date_of_birth='1971-05-23'
+2024-06-12 10:32:27 Sent message 1 -> ts='2024-06-12 05:01:59.760445' name='Michelle Green' country='Bahrain' date_of_birth='1970-01-11'
+2024-06-12 10:32:27 Sent message 2 -> ts='2024-06-12 05:02:01.763769' name='Casey Daniel' country='Mauritania' date_of_birth='1934-12-29'
+2024-06-12 10:32:27 Sent message 3 -> ts='2024-06-12 05:02:03.767895' name='Christine Gardner' country='Myanmar' date_of_birth='1958-05-09'
+2024-06-12 10:32:27 Sent message 4 -> ts='2024-06-12 05:02:05.773461' name='Shawn Huynh' country='Kazakhstan' date_of_birth='1954-04-22'
+2024-06-12 10:32:27 Sent message 5 -> ts='2024-06-12 05:02:07.779745' name='Matthew Kirby' country='Congo' date_of_birth='1998-08-23'
+2024-06-12 10:32:27 Sent message 6 -> ts='2024-06-12 05:02:09.785652' name='Michael Sanders' country='Turks and Caicos Islands' date_of_birth='1954-08-07'
+2024-06-12 10:32:27 Sent message 7 -> ts='2024-06-12 05:02:11.791098' name='Shawn Myers' country='Estonia' date_of_birth='1965-08-18'
+2024-06-12 10:32:27 Sent message 8 -> ts='2024-06-12 05:02:13.801215' name='Deborah Garcia' country='New Caledonia' date_of_birth='2001-05-22'
+2024-06-12 10:32:27 Sent message 9 -> ts='2024-06-12 05:02:15.806686' name='Sandra Nunez' country='Tuvalu' date_of_birth='1993-12-13'
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:53 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:53 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:54 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:54 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:54 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:54 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:54 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:54 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:55 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:55 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:56 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:56 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:57 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:57 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:58 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:33:58 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:33:59 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:33:59 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:00 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:00 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:01 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:01 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:02 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:02 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:03 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:03 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:04 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:04 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:05 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:05 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:06 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:06 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:07 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:07 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:08 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:08 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:09 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:09 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:10 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:10 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:11 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:11 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:12 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:12 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:14 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:14 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:15 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:15 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:16 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:16 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:17 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:17 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:18 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:18 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:19 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:19 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:20 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:20 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:21 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]> returned error 111. Disconnecting.
+2024-06-12 10:34:21 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:22 ERROR:kafka.conn:Connect attempt to <BrokerConnection node_id=1 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]> returned error 111. Disconnecting.
+2024-06-12 10:34:22 WARNING:kafka.client:Node 1 connection failed -- refreshing metadata
+2024-06-12 10:34:23 WARNING:kafka.producer.record_accumulator:Produced messages to topic-partition TopicPartition(topic='USERS', partition=0) with base offset -1 log start offset None and error None.
+2024-06-12 10:34:23 WARNING:kafka.producer.record_accumulator:Expired 1 batches in accumulator
+2024-06-12 10:34:23 1
+2024-06-12 10:34:23 Sent message 0 -> ts='2024-06-12 05:03:53.198476' name='James Dunn' country='Latvia' date_of_birth='2013-06-21'
+2024-06-12 10:34:23 Sent message 1 -> ts='2024-06-12 05:03:55.201380' name='Jennifer Hayes' country='El Salvador' date_of_birth='1995-08-04'
+2024-06-12 10:34:23 Sent message 2 -> ts='2024-06-12 05:03:57.206779' name='Tom Johnson' country='Nigeria' date_of_birth='2005-05-19'
+2024-06-12 10:34:23 Sent message 3 -> ts='2024-06-12 05:03:59.214696' name='Loretta Collins' country='Thailand' date_of_birth='1947-01-31'
+2024-06-12 10:34:23 Sent message 4 -> ts='2024-06-12 05:04:01.217553' name='Rachel Morris' country='Saudi Arabia' date_of_birth='1970-12-30'
+2024-06-12 10:34:23 Sent message 5 -> ts='2024-06-12 05:04:03.221522' name='Meghan Nielsen' country='Belarus' date_of_birth='1942-03-29'
+2024-06-12 10:34:23 Sent message 6 -> ts='2024-06-12 05:04:05.229031' name='Ryan Jones' country='British Virgin Islands' date_of_birth='1931-07-23'
+2024-06-12 10:34:23 Sent message 7 -> ts='2024-06-12 05:04:07.236405' name='Sheila Lloyd' country='Costa Rica' date_of_birth='1964-11-29'
+2024-06-12 10:34:23 Sent message 8 -> ts='2024-06-12 05:04:09.240367' name='Joshua Anderson' country='Nauru' date_of_birth='2021-10-24'
+2024-06-12 10:34:23 Sent message 9 -> ts='2024-06-12 05:04:11.245359' name='Xavier Weaver' country='Monaco' date_of_birth='1965-12-07'
