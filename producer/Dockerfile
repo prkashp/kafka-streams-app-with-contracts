@@ -9,6 +9,7 @@ RUN pip install --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
 ADD main.py .
+ADD register_schema.py .
 ADD entrypoint.sh .
 
 ENV RUNTIME_ENVIRONMENT="DOCKER"

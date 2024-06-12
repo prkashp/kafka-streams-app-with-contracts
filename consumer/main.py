@@ -5,9 +5,10 @@ from kafka import KafkaConsumer
 from pydantic import BaseModel
 from schema_registry.client import SchemaRegistryClient
 
-BOOTSTRAP_SERVERS = (
-    "kafka:9092" if os.getenv("RUNTIME_ENVIRONMENT") == "DOCKER" else "localhost:9092"
-)
+# BOOTSTRAP_SERVERS = (
+#     "kafka:9092" if os.getenv("RUNTIME_ENVIRONMENT") == "DOCKER" else "localhost:9092"
+# )
+BOOTSTRAP_SERVERS = "172.21.0.2:9092" 
 
 TOPIC = "USERS"
 
